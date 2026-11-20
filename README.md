@@ -1,4 +1,3 @@
-[redes-y-comunicacion.md](https://github.com/user-attachments/files/35118611/redes-y-comunicacion.md)
 # 1. Redes y comunicación
 
 > Bloque 1 de System Design. Todo lo que pasa entre un cliente y un servidor, de la capa de red hasta el diseño de APIs.
